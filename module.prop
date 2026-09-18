@@ -1,0 +1,6 @@
+id=infinix-remove-30hz-limit-camera
+name=Remove 30hz camera limit
+version=v1.0
+versionCode=280001
+author=auxmeet & iromenero
+description=Removing the 30hz limit in the camera. For Magisk 26.4+.
