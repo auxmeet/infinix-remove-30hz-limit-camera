@@ -1,4 +1,4 @@
-# Remove 30Hz camera limit
+# infinix-remove-30hz-limit-camera
 
 Magisk module for **Infinix** on a **GSI** (for example Pixel Experience). Removes the **30 Hz / 30 fps** camera cap.
 
